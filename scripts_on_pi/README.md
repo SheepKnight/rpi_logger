@@ -1,6 +1,6 @@
 # Installation on Raspberry PI
 
-The goal of the script is to send IP address, name and date+time at boot of RPI to a server in order to locate it.
+The goal of the script is to send IP address, name and date+time at boot of RPI to a server in order to help locate it in a DHCP network.
 
 There are many ways to launch a script on Linux at the end of boot.
 This one is simple but indirect.
